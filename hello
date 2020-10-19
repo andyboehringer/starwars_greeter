@@ -1,8 +1,8 @@
 #!/bin/bash
-#test
+#
 # Automated greeter for Star Wars crew
 
-SW_CREW=("Leila" "R3D3" "Han Duo")
+SW_CREW=("Leia" "R2D2" "Han Solo" "Chewbacca")
 
 for crew_member in "${SW_CREW[@]}"; do
   echo "Hi ${crew_member}"
