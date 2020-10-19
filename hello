@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+#test
 # Automated greeter for Star Wars crew
 
 SW_CREW=("Leila" "R3D3" "Han Duo")
